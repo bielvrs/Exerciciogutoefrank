@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(231, 187, 105);
+    background-color: rgb(230, 21, 21);
     text-align: center;
 }
 .pergunta{
@@ -10,7 +10,7 @@ body{
     text-align: left;
     width: 300px;     margin: 10px auto;
     font-family: arial;    font-size: 20px;
-    border: 1px dashed rgb(19, 19, 24);
+    border: 3px dashed rgb(19, 19, 24);
     padding: 10px;
 }
 .pokemon{
